@@ -19,3 +19,6 @@ This Multivocal Literature Review (MLR) aims to provide a structured overview of
 ## Methodology
 
 From an initial set of potentially relevant 373 peer-reviewed publications and 236 grey literature sources, we selected 22 literature studies, which were analyzed according to a meticulous data extraction, analysis, and synthesis process (Garousi et al., 2019; Wohlin, 2014; Ali & Petersen, 2014).
+
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/2687a643-d451-467e-adab-9b04fdb86345" />
